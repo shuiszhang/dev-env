@@ -1,10 +1,14 @@
-## 开发环境设置
+## set up develop environment
 ## mac
 ## [Homebrew](https://brew.sh/)
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 ## [iTerm2](https://www.iterm2.com/)
+```
+support sz/rz 
+https://github.com/mmastrac/iterm2-zmodem
+```
 ## [Oh My Zsh](http://ohmyz.sh/)
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
