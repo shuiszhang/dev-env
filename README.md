@@ -13,12 +13,14 @@ https://github.com/mmastrac/iterm2-zmodem
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
-* 安装 [powerline font](https://github.com/powerline/fonts)
-* 修改 ~/.zshrc ZSH_THEME="agnoster" 启用主题
+* install [powerline font](https://github.com/powerline/fonts)
+* edit ~/.zshrc ZSH_THEME="agnoster"
 
+## [Postman](https://www.getpostman.com/)
+## [Charles](https://www.charlesproxy.com/)
 ## [Alfred](https://www.alfredapp.com/)
 ## [PopClip](https://pilotmoon.com/popclip/)
 ## [Bartender](http://www.macbartender.com/)
 ## [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
-## [Charles](https://www.charlesproxy.com/)
 ## [Evernote](https://www.yinxiang.com/)
+## [智图](http://zhitu.isux.us/)
