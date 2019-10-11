@@ -16,6 +16,11 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 * install [powerline font](https://github.com/powerline/fonts)
 * edit ~/.zshrc ZSH_THEME="agnoster"
 
+## [draw.io](https://www.draw.io/)
+## [LICEcap](https://www.cockos.com/licecap/)
+## [XMind](https://www.xmind.net/zen/)
+## [Snipaste](https://zh.snipaste.com/)
+## [uTools](https://u.tools/)
 ## [Postman](https://www.getpostman.com/)
 ## [Charles](https://www.charlesproxy.com/)
 ## [Alfred](https://www.alfredapp.com/)
